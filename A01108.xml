@@ -4471,7 +4471,7 @@ E. and N. from the ſame; I named it <hi>King Charles his Promon<g ref="char:EOL
             <div type="section">
                <pb n="226" facs="tcp:5949:117"/>
                <head>The Example.</head>
-               <milestone type="tcpmilestone" unit="Moneths" n="September."/>
+               <milestone type="tcpmilestone" n="September." unit="Moneths"/>
                <p>ADmit a ſhip to be nere the ſhore, to the N. W. of the point of <hi>Portland</hi> in <hi>Dorſet-ſhiere</hi> with eaſie S. S. W. gale, ſtan<g ref="char:EOLhyphen"/>ding W. cloſe hal'd, the Flood-tide being comming in from<note place="margin">Note Seam<gap reason="illegible" resp="#APEX" extent="1 letter">
                         <desc>•</desc>
                      </gap>n.</note> about the <hi>Berry,</hi> into the Bay of <hi>Lyme,</hi> falling S. E. into the <hi>Race,</hi> ſhall take the ſaid ſhip vpon the Lee-bowe, and in de<g ref="char:EOLhyphen"/>ſpight carrie her into the <hi>Race,</hi> at the S. point of <hi>Portland,</hi> it ſet<g ref="char:EOLhyphen"/>ting E. where then ſhee ſhall ſtemme the ſame, whoſe greater force (ſhe not being able to ouer-haile) ſhall tacke her about the ſaid Point, and then ſetting E. N. E. and N. E. vpon her wether bow, ſhall carry her into the graſſe, now with ſame wind ſame tide, and ſame winding, ſhee ſhall bringe the ſame land, W. S. W. or S. W. vpon her; this ſame happened to me at this new head-land, which being in the night, did not a little ſtumble mee to find out, vntill my remembrance queſtioned with my experience, to find the cauſe, which otherwiſe we muſt haue thought, that wee raiſed a new land; for which ſimilie, as, other jnducements, to the furtherance of this enterance, I haue named the ſame fore-land my Lord <hi>Weſtons Portland.</hi>
@@ -4479,7 +4479,12 @@ E. and N. from the ſame; I named it <hi>King Charles his Promon<g ref="char:EOL
                <trailer>Heere followeth the Demonſtration.</trailer>
             </div>
             <div type="section">
-               <figure/>
+               <p>
+                  <pb n="237" facs="tcp:5949:117"/>
+                  <figure/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Moneths </seg>September</label>
+               </p>
                <p>
                   <pb n="239" facs="tcp:5949:118"/>The tydes do abate, to morrow being quarter day, the laſt <label type="milestone">
                      <seg type="milestoneunit">Moneths </seg>September</label> night was ſome lightning.</p>
